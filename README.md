@@ -1,7 +1,7 @@
 # :arrows_counterclockwise: Metodología Scrum  :arrows_counterclockwise: #
 
 ### **Índice**
-1. [Definición]
+1. [ Definición ]
 2. [Objetivo]
 3. [Componentes del Scrum]
 4. [Desarrollo]
