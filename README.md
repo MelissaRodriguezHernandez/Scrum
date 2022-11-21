@@ -1,13 +1,13 @@
 # :arrows_counterclockwise: Metodología Scrum  :arrows_counterclockwise: #
 
 ### **Índice**
-1. [Definición](#1)
-2. [Objetivo](#2)
-3. [Componentes del Scrum](#3)
-4. [Desarrollo](#4)
+1. [Definición]
+2. [Objetivo]
+3. [Componentes del Scrum]
+4. [Desarrollo]
 
 ---
-<div id='1' />
+
 
 _DEFINICIÓN_
 
@@ -22,7 +22,7 @@ trabajo
 
 ---
 
-<div id='2' />
+
 
 _*OBJETIVO*_
 
@@ -30,7 +30,7 @@ _*OBJETIVO*_
 
 ---
 
-<div id='3' />
+
 
 _COMPONENTES DEL SCRUM_
 
@@ -52,7 +52,6 @@ _COMPONENTES DEL SCRUM_
 
 ---
 
-<div id='4' />
 
 _DESARROLLO_
 
